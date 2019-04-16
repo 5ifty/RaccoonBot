@@ -1,3 +1,4 @@
 # RaccoonBot
 
-Posting free to use fun , moderator, music and any other coding things which may be useful for your discord.py bots!
+Posting some of my code for "Raccoonbot". 
+- Please credit my github if you use them.
