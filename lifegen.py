@@ -23,7 +23,8 @@ class lifegen(commands.Cog):
         gay = random.choice(lists.gay)
         license = random.choice(lists.license)
         country = random.choice(lists.country)
-        await ctx.send(f"***{ctx.author.name}'s Life story***\n{age} {sex} Born in {country}.\nYou have decided your sexualality; You are a {gay}.\n{school}.\n{license}\n{job}.\n{money}.\n{kids}.\n{death} because {deathcause}")     
+        print('Made possible by 5ifty#4279')
+        await ctx.send(f"***{ctx.author.name}'s Life story***\n{age} {sex} Born in {country}.\nYou have decided your sexualality; You are a {gay}.\n{school}.\n{license}\n{job}.\n{money}.\n{kids}.\n{death} because {deathcause}. \n `This was made by 5ifty#4279.")     
      
      
    def setup(bot):
