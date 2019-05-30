@@ -1,4 +1,4 @@
 # RaccoonBot
 
 Posting some of my code for "Raccoonbot". 
-- Please credit my github if you use them.
+- Please credit me/ my github if you use them.
